@@ -1,4 +1,4 @@
-**Real-Time Object Detection with Jetson Nano and OpenCV**
+                                                                        **Real-Time Object Detection with Jetson Nano and OpenCV**
 
 This project demonstrates a real-time object detection system using the NVIDIA Jetson Nano, OpenCV, and Jetson Inference Library. The system captures live video frames from a camera, processes them using pre-trained deep learning models, and displays the detected objects in real time.
 
